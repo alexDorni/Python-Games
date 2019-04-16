@@ -1,9 +1,6 @@
 import pygame
-import numpy as np
 import random
-from math import pi
 
-pygame.init()
 
 BLACK = (0,   0,   0)
 WHITE = (255, 255, 255)
@@ -11,66 +8,105 @@ BLUE = (0,   0, 255)
 GREEN = (0, 255,   0)
 RED = (255,   0,   0)
 
-screen = pygame.display.set_mode([600, 600])
+rect_obj_list = []
+screen = None
 
-pygame.display.set_caption("Snake")
 
-done = False
-clock = pygame.time.Clock()
-grid = [[1] * 30 for i in range(30)]
+def create_screen(color=WHITE):
+    global rect_obj_list, screen
+    screen = pygame.display.set_mode([400, 400])
 
-screen.fill(WHITE)
-lista = []
-list_row_rect = []
-zz = 0
-x, y = 0, 0
+    # Make the interface white
+    screen.fill(WHITE)
 
-for i in grid:
-    for j in i:
-        xx = pygame.draw.rect(screen, BLUE, [y, x, 20, 20], 1)
-        list_row_rect.append(xx)
-        y += 20
-    list_row_rect = []
-    lista.append(list_row_rect)
-    x += 20
-    y = 0
+    # Make a matrix with 20 x 20 of zeros
+    grid = [[0] * 20 for _ in range(20)]
 
-# TODO with functions
+    rect_row_list = []
 
-len_lista = lista.__len__() - 1
-middle_screen = len_lista // 2
+    x_coord_pixel, y_coord_pixel = 0, 0
 
-x, y = middle_screen, middle_screen
-step = 1
+    # Create a matrix with rect with dimension 20, 20 pixels
+    for row in grid:
+        for _ in row:
+            rectang = pygame.draw.rect(screen,
+                                       color,
+                                       [y_coord_pixel, x_coord_pixel, 20, 20],
+                                       )
+            rect_row_list.append(rectang)
 
-while 1:
-    ok1 = 1
+            # Increment with 20 pixels on the line
+            y_coord_pixel += 20
+        rect_row_list = []
+        rect_obj_list.append(rect_row_list)
 
-    event = pygame.event.poll()
-    if event.type == pygame.QUIT:
-        break
+        # Increment with 20 pixels on column
+        x_coord_pixel += 20
 
-    if event.type == pygame.KEYDOWN:
-        print(x, y)
-        if (x == len_lista or y == len_lista) or (x < 0 or y < 0):
-            print("sfarsit")
-            # TODO rise exception
+        y_coord_pixel = 0
 
-        if event.key == pygame.K_a:
-            y -= step
-            lista[x][y] = pygame.draw.rect(screen, RED, lista[x][y])
-            print(x, y)
-        if event.key == pygame.K_d:
-            y += step
-            lista[x][y] = pygame.draw.rect(screen, RED, lista[x][y])
-        if event.key == pygame.K_w:
-            x -= step
-            lista[x][y] = pygame.draw.rect(screen, RED, lista[x][y])
-        if event.key == pygame.K_s:
-            x += step
-            lista[x][y] = pygame.draw.rect(screen, RED, lista[x][y])
 
-    pygame.display.flip()
+def run_game():
+    global rect_obj_list, screen, RED, BLUE, WHITE
 
-# Be IDLE friendly
-pygame.quit()
+    rect_len = len(rect_obj_list)
+    middle_screen = rect_len // 2
+    x_coord_rect, y_coord_rect = middle_screen, middle_screen
+
+    snake_step = 1
+
+    while 1:
+
+        event = pygame.event.poll()
+        if event.type == pygame.QUIT:
+            break
+
+        if event.type == pygame.KEYDOWN:
+            # TODO Collision with the margin equals END GAME
+
+            if event.key == pygame.K_a:
+                screen.fill(WHITE)
+                y_coord_rect -= snake_step
+                rect_obj_list[x_coord_rect][y_coord_rect] = pygame.draw.rect(screen,
+                                                                             RED,
+                                                                             rect_obj_list[x_coord_rect][y_coord_rect],
+                                                                             )
+            if event.key == pygame.K_d:
+                screen.fill(WHITE)
+                y_coord_rect += snake_step
+                rect_obj_list[x_coord_rect][y_coord_rect] = pygame.draw.rect(screen,
+                                                                             RED,
+                                                                             rect_obj_list[x_coord_rect][y_coord_rect],
+                                                                             )
+            if event.key == pygame.K_w:
+                screen.fill(WHITE)
+                x_coord_rect -= snake_step
+                rect_obj_list[x_coord_rect][y_coord_rect] = pygame.draw.rect(screen,
+                                                                             RED,
+                                                                             rect_obj_list[x_coord_rect][y_coord_rect],
+                                                                             )
+            if event.key == pygame.K_s:
+                screen.fill(WHITE)
+                x_coord_rect += snake_step
+                rect_obj_list[x_coord_rect][y_coord_rect] = pygame.draw.rect(screen,
+                                                                             RED,
+                                                                             rect_obj_list[x_coord_rect][y_coord_rect],
+                                                                             )
+
+        pygame.display.flip()
+
+    pygame.quit()
+
+
+def main():
+    # Initialize game engine
+    pygame.init()
+    pygame.display.set_caption("Snake Game")
+
+    create_screen()
+
+    run_game()
+
+
+if __name__ == '__main__':
+    main()
