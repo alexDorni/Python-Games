@@ -2,20 +2,17 @@ import os
 
 
 # Each website you crawl is separate project (folder)
+from shutil import rmtree
+
+
 def create_project_dir(directory):
+    rmtree(directory)
     if not os.path.exists(directory):
         print("Creating project {} ...".format(directory))
         os.makedirs(directory)
 
 
-create_project_dir("Fortnite")
-
-
-# Create queue and crawled files ( if not created)
-def write_new_file(path_file, data):
-    f = open(path_file, 'w')
-    f.write(data)
-    f.close()
+# create_project_dir("Fortnite")
 
 
 def create_data_files(project_name, base_url):  # base_url - starting point
@@ -34,7 +31,14 @@ def create_data_files(project_name, base_url):  # base_url - starting point
         write_new_file(crawled, '')
 
 
-create_data_files("Fortnite", "https://www.gamesradar.com/how-to-play-fortnite/")
+# create_data_files("Fortnite", "https://www.gamesradar.com/how-to-play-fortnite/")
+
+
+# Create queue and crawled files ( if not created)
+def write_new_file(path_file, data):
+    f = open(path_file, 'w')
+    f.write(data)
+    f.close()
 
 
 # Add data onto an existing file
@@ -61,8 +65,9 @@ def file_to_set(file_name):
 # Iterate through a set, each item will be a new line in the file
 def set_to_file(links, file):
     delete_file_content(file)
+    print("SET TO FILE", links)
     for link in sorted(links):
         append_to_file(file, link)
 
-
-print(type(set()))
+# lista = [1, 2, 3, 3]
+# print(set(lista))
