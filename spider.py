@@ -29,7 +29,7 @@ class Spider:
         Spider.queue_file = Spider.project_name + "/queue.txt"
         Spider.crawled_file = Spider.project_name + "/crawled.txt"
         self.boot()
-        self.crawl_page("First spider", Spider.base_url)  # Connect to a page
+        self.crawl_page("Thread 0", Spider.base_url)  # Connect to a page
 
     @staticmethod
     def boot():
@@ -67,8 +67,8 @@ class Spider:
                 html_string = html_bytes.decode("utf-8")
             finder = LinkFinder(Spider.base_url, page_url)
             finder.feed(html_string)
-        except:
-            print("Error: can not crawl a page")
+        except Exception as e:
+            print("{} can not crawl this page". format(e))
             return set()
         return finder.page_links()
 

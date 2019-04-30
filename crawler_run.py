@@ -8,7 +8,7 @@ from general import *
 # Factory with jobs to do
 # Each spider will have a queue with jobs to do
 PROJECT_NAME = "how_to_be_pro_at_fortnite"
-HOME_PAGE = "https://www.gamesradar.com/"
+HOME_PAGE = "https://docs.python.org"
 DOMAIN_NAME = get_domain_name(HOME_PAGE)
 QUEUE_FILE = PROJECT_NAME + "/queue.txt"
 CRAWLED_FILE = PROJECT_NAME + "/crawled.txt"
@@ -26,7 +26,7 @@ Spider(PROJECT_NAME, HOME_PAGE, DOMAIN_NAME)
 def crawl():
     queued_links = file_to_set(QUEUE_FILE)
     if len(queued_links) > 0:
-        print(str(len(queued_links)) + "links in the queue")
+        print("Queue size \n" + str(len(queued_links)) + " links in the queue \n")
         create_jobs()
 
 

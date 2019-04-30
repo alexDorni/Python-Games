@@ -23,7 +23,3 @@ class LinkFinder(HTMLParser):
 
     def error(self, message):
         pass
-
-
-# link_finder = LinkFinder()
-# link_finder.feed("cod html")
