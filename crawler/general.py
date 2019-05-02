@@ -22,14 +22,14 @@ def create_data_files(project_name, base_url):  # base_url - starting point
 
 # Create queue and crawled files ( if not created)
 def write_new_file(path_file, data):
-    f = open(path_file, 'w')
+    f = open(path_file, 'w', encoding="utf-8")
     f.write(data)
     f.close()
 
 
 # Add data onto an existing file
 def append_to_file(path, data):
-    with open(path, 'a') as file:
+    with open(path, 'a', encoding="utf-8") as file:
         file.write(data + "\n")
 
 
@@ -42,7 +42,7 @@ def delete_file_content(path):
 # Read a file and convert each line to set items
 def file_to_set(file_name):
     results = set()
-    with open(file_name, 'rt') as f:  # Read text file
+    with open(file_name, "rt", encoding="utf-8") as f:  # Read text file
         for line in f:
             results.add(line.replace("\n", ''))
     return results

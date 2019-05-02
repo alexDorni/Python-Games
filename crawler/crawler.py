@@ -7,12 +7,10 @@ from crawler.general import *
 
 class Crawler:
 
-    def __init__(self, project_name="crawler_project",
-                 home_page="",
-                 nr_threads=8):
-        self.project_name = project_name
+    def __init__(self, home_page="", nr_threads=8):
         self.home_page = home_page
         self.domain = get_domain_name(self.home_page)
+        self.project_name = "crawler_output/" + self.domain
         self.queue_file = self.project_name + "/queue.txt"
         self.crawled_file = self.project_name + "/crawled.txt"
         self.number_of_threads = nr_threads
