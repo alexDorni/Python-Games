@@ -1,6 +1,8 @@
 import os
 from shutil import rmtree
 
+CRAWLER_OUTPUT = "crawler_output/"
+
 
 def create_project_dir(directory):
     if os.path.exists(directory):

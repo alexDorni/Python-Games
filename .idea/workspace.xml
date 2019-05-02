@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e172c4ca-8634-4eb9-b379-a20ab2d7d876" name="Default Changelist" comment="asda">
+      <change afterPath="$PROJECT_DIR$/file_parser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crawler/crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/crawler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crawler/general.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/general.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler_exe.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler_exe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/how_to_play_starcraft2/crawled.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/how_to_play_starcraft2/queue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/link_parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler_output/liquipedia.net/crawled.txt" beforeDir="false" afterPath="$PROJECT_DIR$/crawler_output/liquipedia.net/crawled.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler_output/osirissc2guide.com/crawled.txt" beforeDir="false" afterPath="$PROJECT_DIR$/crawler_output/osirissc2guide.com/crawled.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawler/general.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+            <state relative-caret-position="823">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -32,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawler/link_finder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="425">
               <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
@@ -44,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawler/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+            <state relative-caret-position="294">
+              <caret line="44" column="56" lean-forward="true" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="56" />
               <folding>
                 <element signature="e#0#55#0" expanded="true" />
               </folding>
@@ -56,8 +57,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawler/crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,8 +69,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawler_exe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+            <state relative-caret-position="102">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/file_parser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="539">
+              <caret line="48" column="24" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#6#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler_output/liquipedia.net/crawled.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="32" column="46" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -116,21 +141,27 @@
         <option value="$PROJECT_DIR$/spider.py" />
         <option value="$PROJECT_DIR$/crawler_run.py" />
         <option value="$PROJECT_DIR$/crawler.py" />
-        <option value="$PROJECT_DIR$/crawler/link_parser.py" />
         <option value="$PROJECT_DIR$/crawler/spider.py" />
+        <option value="$PROJECT_DIR$/crawler/general.py" />
+        <option value="$PROJECT_DIR$/crawler/link_parser.py" />
+        <option value="$PROJECT_DIR$/crawler/thread_abs.py" />
+        <option value="$PROJECT_DIR$/link_parser.py" />
+        <option value="$PROJECT_DIR$/crawler_output/liquipedia.net/crawled.txt" />
+        <option value="$PROJECT_DIR$/crawler_output/osirissc2guide.com/crawled.txt" />
         <option value="$PROJECT_DIR$/crawler/crawler.py" />
         <option value="$PROJECT_DIR$/crawler_exe.py" />
-        <option value="$PROJECT_DIR$/crawler/general.py" />
+        <option value="$PROJECT_DIR$/file_parser.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2320" />
-    <option name="y" value="302" />
-    <option name="width" value="1488" />
-    <option name="height" value="880" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1975" />
+    <option name="width" value="943" />
+    <option name="height" value="1087" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -148,6 +179,23 @@
               <item name="Python-Games" type="462c0819:PsiDirectoryNode" />
               <item name="crawler" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Spider-Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Games" type="462c0819:PsiDirectoryNode" />
+              <item name="crawler_output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spider-Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Games" type="462c0819:PsiDirectoryNode" />
+              <item name="crawler_output" type="462c0819:PsiDirectoryNode" />
+              <item name="liquipedia.net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spider-Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Games" type="462c0819:PsiDirectoryNode" />
+              <item name="crawler_output" type="462c0819:PsiDirectoryNode" />
+              <item name="osirissc2guide.com" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -156,12 +204,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crawler_web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IMPORTANT_ML" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adornescu\PycharmProjects\Python-Games" />
       <recent name="C:\Users\adornescu\PycharmProjects\Python-Games\crawler" />
     </key>
   </component>
@@ -177,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.link_parser (1)">
     <configuration name="general" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Spider-Web" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,6 +248,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="link_parser (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Spider-Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\adornescu\PycharmProjects\Python-Games\file_parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="link_parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Spider-Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\adornescu\PycharmProjects\Python-Games\file_parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Spider-Web" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,27 +303,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\adornescu\PycharmProjects\Python-Games\crawler_exe.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Spider-Web" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\adornescu\PycharmProjects\Python-Games\crawler\general.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,10 +334,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.link_parser (1)" />
+        <item itemvalue="Python.link_parser" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.spider" />
         <item itemvalue="Python.general" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -294,15 +365,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1974" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="1975" y="0" width="943" height="1087" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13507625" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2640884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4972767" visible="true" weight="0.41495124" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4972767" visible="true" weight="0.2840671" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -404,25 +475,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/how_to_be_pro_at_fortnite/crawled.txt" />
-    <entry file="file://$PROJECT_DIR$/crawler/link_finder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/argparse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1321" column="8" selection-start-line="1321" selection-start-column="8" selection-end-line="1321" selection-end-column="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/link_parser.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/how_to_play_starcraft2/crawled.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -431,46 +489,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawler_output/liquipedia.net/crawled.txt">
+    <entry file="file://$PROJECT_DIR$/crawler_output/kotaku.com/crawled.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler_output/liquipedia.net/queue.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler_output/osirissc2guide.com/crawled.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="22" />
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/thread_abs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/general.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        <state relative-caret-position="294">
+          <caret line="44" column="56" lean-forward="true" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="56" />
           <folding>
             <element signature="e#0#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawler_output/kotaku.com/crawled.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/crawler/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/link_finder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler_output/liquipedia.net/crawled.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler_exe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        <state relative-caret-position="102">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/general.py">
+    <entry file="file://$PROJECT_DIR$/file_parser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        <state relative-caret-position="539">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="28" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#6#0" expanded="true" />
           </folding>
         </state>
       </provider>

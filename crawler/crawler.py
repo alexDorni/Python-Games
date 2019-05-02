@@ -10,7 +10,7 @@ class Crawler:
     def __init__(self, home_page="", nr_threads=8):
         self.home_page = home_page
         self.domain = get_domain_name(self.home_page)
-        self.project_name = "crawler_output/" + self.domain
+        self.project_name = CRAWLER_OUTPUT + self.domain
         self.queue_file = self.project_name + "/queue.txt"
         self.crawled_file = self.project_name + "/crawled.txt"
         self.number_of_threads = nr_threads
@@ -29,7 +29,7 @@ class Crawler:
     def create_jobs(self, queued_links=[]):
         for link in queued_links:
             self.queue_of_jobs.put(link)
-        # Doesn't colide with the read and write
+        # Doesn't collide with the read and write
         self.queue_of_jobs.join()  # Done the creation of job (put link)
         self.run()
 
