@@ -37,8 +37,9 @@ def append_to_file(path, data):
 
 # Delete the content of a file
 def delete_file_content(path):
-    with open(path, 'w'):
-        pass
+    if os.path.exists(path):
+        with open(path, 'w'):
+            pass
 
 
 # Read a file and convert each line to set items
