@@ -1,7 +1,7 @@
 import csv
 import os
 
-from crawler.general import file_to_set, set_to_file, CRAWLER_OUTPUT
+from crawler.general import file_to_set, CRAWLER_OUTPUT
 
 
 class FileParser:
@@ -26,6 +26,23 @@ class FileParser:
             print(e)
 
     def __create_list_of_dict(self):
+        """
+        Algorithm -> convert data from .txt files into csv
+
+        Takes all the .txt files from a directory root (CRAWLER_OUTPUT) variable.
+
+        Makes a list of dict with
+                                [
+                                    {
+                                        key1 (folder_name_1/crawled.txt): value(line_1_of_folder_1),
+                                        key2 (folder_name_2/crawled.txt): value(line_2_of_folder_2),
+                                        ...,
+                                    },
+                                    ...
+                                ]
+
+        If the value is None for a line of a .txt file it will be NULL
+        """
         try:
             flag = True
             nr_iter = 0
@@ -41,24 +58,16 @@ class FileParser:
                 print(self.sub_links_split)
                 if flag:
                     nr_iter += 1
-            print(self.sub_links_split)
 
         except Exception as e:
             print(e)
 
     def create_csv_file(self):
-        with open('Links.csv', 'w', newline='') as csv_file:
-            writer = csv.DictWriter(csv_file, self.files_dict.keys())
-            writer.writeheader()
-            print(self.sub_links_split)
-
-            try:
+        try:
+            with open('Links.csv', 'w', newline='') as csv_file:
+                writer = csv.DictWriter(csv_file, self.files_dict.keys())
+                writer.writeheader()
                 writer.writerows(self.sub_links_split)
 
-            except Exception as e:
-                print(e)
-
-
-f = FileParser()
-# f.create_dict_files(CRAWLER_OUTPUT)
-f.create_csv_file()
+        except Exception as e:
+            print(e)

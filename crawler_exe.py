@@ -12,6 +12,7 @@ def main(args):
                               nr_threads=args.nr_threads)
             crawler.create_workers()
             crawler.run()
+        # TODO implement FileParser for csv files in main
     except Exception as e:
         print(e, "\nInvalid arguments see crawler_exe.py --help")
 
