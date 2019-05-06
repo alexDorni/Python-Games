@@ -1,6 +1,7 @@
 from urllib.request import urlopen  # Connect web pages
 from crawler.link_finder import LinkFinder
 from crawler.general import *
+import crawler.general
 
 
 class Spider:

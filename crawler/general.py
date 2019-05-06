@@ -1,4 +1,5 @@
 import os
+from itertools import islice
 from shutil import rmtree
 
 CRAWLER_OUTPUT = "crawler_output/"
@@ -43,11 +44,20 @@ def delete_file_content(path):
 
 
 # Read a file and convert each line to set items
-def file_to_set(file_name):
+def file_to_set(file_name, nr_iter=None):
     results = set()
-    with open(file_name, "rt", encoding="utf-8") as f:  # Read text file
-        for line in f:
-            results.add(line.replace("\n", ''))
+    if nr_iter is None:
+        with open(file_name, "r", encoding="utf-8") as f:  # Read text file
+            for line in f:
+                results.add(line.replace("\n", ''))
+    else:
+        with open(file_name, "r") as f:  # Read text file
+            try:
+                line = next(islice(f, nr_iter, None, None))
+                results.add(line)
+            except StopIteration:
+                results.add("NULL")
+
     return results
 
 
