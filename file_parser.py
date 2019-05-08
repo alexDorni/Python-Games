@@ -51,11 +51,11 @@ class FileParser:
                 flag = False
                 for key in self.files_dict.keys():
                     link_set = file_to_set(self.files_dict[key], nr_iter)
-                    dict_data[key] = list(link_set)[0].replace("\n", '')
+                    elem_link = list(link_set)[0].replace("\n", '').split(key)[1]
+                    dict_data[key] = elem_link if elem_link != '/' else "NULL"
                     if dict_data[key] != "NULL":
                         flag = True
                         self.sub_links_split.append(dict_data)
-                print(self.sub_links_split)
                 if flag:
                     nr_iter += 1
 
