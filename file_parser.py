@@ -44,21 +44,50 @@ class FileParser:
         If the value is None for a line of a .txt file it will be NULL
         """
         try:
+            # TODO Optimize the code
             flag = True
             nr_iter = 0
             while flag:
                 dict_data = {}
                 flag = False
                 for key in self.files_dict.keys():
+                    words_list = []
                     link_set = file_to_set(self.files_dict[key], nr_iter)
-                    elem_link = list(link_set)[0].replace("\n", '').split(key)[1]
-                    dict_data[key] = elem_link if elem_link != '/' else "NULL"
-                    if dict_data[key] != "NULL":
+
+                    if next(iter(link_set)) != "NULL":
                         flag = True
-                        self.sub_links_split.append(dict_data)
+                    else:
+                        words_list.append("NULL")
+                        dict_data[key] = words_list
+                        continue
+
+                    elem_link = list(link_set)[0].replace("\n", '')
+                    if elem_link == '':
+                        words_list.append("NULL")
+                        dict_data[key] = words_list
+                        continue
+
+                    if elem_link.find(key) == -1:
+                        words_list.append("NULL")
+                        dict_data[key] = words_list
+                        continue
+
+                    elem_link = elem_link.split(key)[1]
+                    elem_link = elem_link.split('/')  # Split the links
+                    for var_list in elem_link:
+                        if var_list != '':
+                            elem_link = var_list.split('-')  # Split the words from the links
+                            for word in elem_link:
+                                words_list.append(word.replace(".html", ''))
+                            dict_data[key] = words_list
+                        else:
+                            words_list.append("NULL")
+                            dict_data[key] = words_list
+
+                self.sub_links_split.append(dict_data)
                 if flag:
                     nr_iter += 1
-
+            print(self.sub_links_split)
         except Exception as e:
             print(e)
 
@@ -71,3 +100,6 @@ class FileParser:
 
         except Exception as e:
             print(e)
+
+FileParser().create_csv_file()
+

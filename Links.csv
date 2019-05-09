@@ -1,85 +1,1011 @@
-learningsc2.com,osirissc2guide.com
-,
-,
-/blog/,NULL
-#container,/3-base-mutalisk-econ-mutas.html
-#container,/3-base-mutalisk-econ-mutas.html
-/contact-me/,/9-pool-build-order.html
-/contact-me/,/9-pool-build-order.html
-NULL,/baneling-bust-build-order.html
-/feed/,/baneling-rush-build-zvz.html
-/feed/,/baneling-rush-build-zvz.html
-/about,/beginners-starcraft-2-guide.html
-/about,/beginners-starcraft-2-guide.html
-/improving-your-play/developing-your-starcraft-2-mechanics-a-back-to-basics-guide/,/combat-shield-push-tvz.html
-/improving-your-play/developing-your-starcraft-2-mechanics-a-back-to-basics-guide/,/combat-shield-push-tvz.html
-/about/,/contact-us.html
-/about/,/contact-us.html
-/learning-resources,/disclaimer.html
-/learning-resources,/disclaimer.html
-/about/privacy-policy/,/double-proxy-rax-build-order-tvz.html
-/about/privacy-policy/,/double-proxy-rax-build-order-tvz.html
-/learning-resources/day9/,/how-to-improve-apm-in-starcraft-2-a-guide.html
-/learning-resources/day9/,/how-to-improve-apm-in-starcraft-2-a-guide.html
-/about/the-lsc2-team/,/mass-roach-build-zvp.html
-/about/the-lsc2-team/,/mass-roach-build-zvp.html
-/learning-resources/forcesc2strategy/,/mass-zerglings-ultralisk-build-zvp.html
-/learning-resources/forcesc2strategy/,/mass-zerglings-ultralisk-build-zvp.html
-/blog,/privacy-policy.html
-/blog,/privacy-policy.html
-/learning-resources/friends-of-lsc2/,/protoss-army-compositions.html
-/learning-resources/friends-of-lsc2/,/protoss-army-compositions.html
-/blog/,/proxy-2-gate-rush-build-pvt.html
-/blog/,/proxy-2-gate-rush-build-pvt.html
-/learning-resources/other-resources/,/proxy-hatchery-block-zvp.html
-/learning-resources/other-resources/,/proxy-hatchery-block-zvp.html
-/contact-me/,/race-match-ups.html
-/contact-me/,/race-match-ups.html
-/learning-resources/replays/,/safe-zvp-fast-third-build.html
-/learning-resources/replays/,/safe-zvp-fast-third-build.html
-/feed/,/sc2-replays.html
-/feed/,/sc2-replays.html
-/learning-resources/the-forums/,/scouting-in-starcraft-2.html
-/learning-resources/the-forums/,/scouting-in-starcraft-2.html
-/improving-your-play/developing-your-starcraft-2-mechanics-a-back-to-basics-guide/,/sitemap-page-order.html
-/improving-your-play/developing-your-starcraft-2-mechanics-a-back-to-basics-guide/,/sitemap-page-order.html
-/news/starcraft-2-heart-of-the-swarm-giveaway/,/starcraft-2-2v2-strategy.html
-/news/starcraft-2-heart-of-the-swarm-giveaway/,/starcraft-2-2v2-strategy.html
-/learning-resources,/starcraft-2-campaign-mode-strategy.html
-/learning-resources,/starcraft-2-campaign-mode-strategy.html
-/learning-resources/,/starcraft-2-challenges-guide.html
-/learning-resources/,/starcraft-2-challenges-guide.html
-/practice-buddies/,/starcraft-2-counters-list.html
-/practice-buddies/,/starcraft-2-counters-list.html
-/learning-resources/day9/,/starcraft-2-economy-management.html
-/learning-resources/day9/,/starcraft-2-economy-management.html
-/protoss-strategy-and-tactics/hots-how-to-counter-early-marine-aggression-in-pvt/,/starcraft-2-heart-of-the-swarm-campaign-guide.html
-/protoss-strategy-and-tactics/hots-how-to-counter-early-marine-aggression-in-pvt/,/starcraft-2-heart-of-the-swarm-campaign-guide.html
-/protoss-strategy-and-tactics/hots-naniwa-1-gate-mothership-core-fast-expand-protoss-vs-zerg-builds/,/starcraft-2-heart-of-the-swarm-strategy-guide.html
-/protoss-strategy-and-tactics/hots-naniwa-1-gate-mothership-core-fast-expand-protoss-vs-zerg-builds/,/starcraft-2-heart-of-the-swarm-strategy-guide.html
-/learning-resources/forcesc2strategy/,/starcraft-2-map-strategies.html
-/learning-resources/forcesc2strategy/,/starcraft-2-map-strategies.html
-/protoss-strategy-and-tactics/using-force-fields-effectively/,/starcraft-2-new-units-available-in-heart-of-the-swarm.html
-/protoss-strategy-and-tactics/using-force-fields-effectively/,/starcraft-2-new-units-available-in-heart-of-the-swarm.html
-/learning-resources/friends-of-lsc2/,/starcraft-2-newsletter.html
-/learning-resources/friends-of-lsc2/,/starcraft-2-newsletter.html
-/starcraft-2-and-esports/how-starcraft-2-changed-my-life-monday-musings-with-ziggyd/,/starcraft-2-protoss-build-orders.html
-/starcraft-2-and-esports/how-starcraft-2-changed-my-life-monday-musings-with-ziggyd/,/starcraft-2-protoss-build-orders.html
-/learning-resources/other-resources/,/starcraft-2-protoss-counters.html
-/learning-resources/other-resources/,/starcraft-2-protoss-counters.html
-/learning-resources/replays/,/starcraft-2-protoss-guide.html
-/learning-resources/replays/,/starcraft-2-protoss-guide.html
-/learning-resources/the-forums/,/starcraft-2-protoss-strategy.html
-/learning-resources/the-forums/,/starcraft-2-protoss-strategy.html
-/news/starcraft-2-heart-of-the-swarm-giveaway/,/starcraft-2-protoss-structures.html
-/news/starcraft-2-heart-of-the-swarm-giveaway/,/starcraft-2-protoss-structures.html
-/practice-buddies/,/starcraft-2-protoss-tips.html
-/practice-buddies/,/starcraft-2-protoss-tips.html
-/protoss-strategy-and-tactics/hots-how-to-counter-early-marine-aggression-in-pvt/,/starcraft-2-protoss-units.html
-/protoss-strategy-and-tactics/hots-how-to-counter-early-marine-aggression-in-pvt/,/starcraft-2-protoss-units.html
-/protoss-strategy-and-tactics/hots-naniwa-1-gate-mothership-core-fast-expand-protoss-vs-zerg-builds/,/starcraft-2-strategy-tricks-and-manipulation-as-a-high-end-strategy.html
-/protoss-strategy-and-tactics/hots-naniwa-1-gate-mothership-core-fast-expand-protoss-vs-zerg-builds/,/starcraft-2-strategy-tricks-and-manipulation-as-a-high-end-strategy.html
-/protoss-strategy-and-tactics/using-force-fields-effectively/,/starcraft-2-terran-counters.html
-/protoss-strategy-and-tactics/using-force-fields-effectively/,/starcraft-2-terran-counters.html
-/starcraft-2-and-esports/how-starcraft-2-changed-my-life-monday-musings-with-ziggyd/,/starcraft-2-terran-guide.html
-/starcraft-2-and-esports/how-starcraft-2-changed-my-life-monday-musings-with-ziggyd/,/starcraft-2-terran-guide.html
+learningsc2.com,liquipedia.net,osirissc2guide.com
+"['NULL', 'blog', 'NULL']","['NULL', 'apexlegends', 'ApexPro', 'North_American_League', 'Season_4']",['NULL']
+['NULL'],"['NULL', 'apexlegends', 'ApexPro', 'Europe_League', 'Season_3']","['NULL', 'NULL']"
+['NULL'],"['NULL', 'apexlegends', 'ApexPro', 'North_American_League', 'Season_4']",['NULL']
+['NULL'],"['NULL', 'apexlegends', 'ApexPro', 'North_American_League', 'Season_4']","['NULL', 'NULL']"
+['NULL'],"['NULL', 'apexlegends', 'Kill_Records']","['NULL', '3', 'base', 'mutalisk', 'econ', 'mutas']"
+['NULL'],"['NULL', 'apexlegends', 'Dizzy']","['NULL', 'NULL']"
+['NULL'],"['NULL', 'apexlegends', 'Dizzy']","['NULL', '9', 'pool', 'build', 'order']"
+['NULL'],"['NULL', 'starcraft', 'FOrGG']","['NULL', '3', 'base', 'mutalisk', 'econ', 'mutas']"
+['NULL'],['NULL'],"['NULL', '3', 'base', 'mutalisk', 'econ', 'mutas']"
+['NULL'],"['NULL', 'apexlegends', 'ApexPro', 'North_American_League', 'Season_4']","['NULL', 'baneling', 'bust', 'build', 'order']"
+['NULL'],"['NULL', 'apexlegends', 'Dizzy']","['NULL', '9', 'pool', 'build', 'order']"
+['NULL'],"['NULL', 'apexlegends', 'Kill_Records']","['NULL', '9', 'pool', 'build', 'order']"
+['NULL'],"['NULL', 'apexlegends', 'Dizzy']","['NULL', 'baneling', 'rush', 'build', 'zvz']"
+['NULL'],['NULL'],"['NULL', 'baneling', 'bust', 'build', 'order']"
+['NULL'],"['NULL', 'starcraft', 'Flash']","['NULL', 'baneling', 'bust', 'build', 'order']"
+['NULL'],"['NULL', 'apexlegends', 'Kill_Records']","['NULL', 'beginners', 'starcraft', '2', 'guide']"
+['NULL'],"['NULL', 'apexlegends', 'Main_Page']","['NULL', 'baneling', 'rush', 'build', 'zvz']"
+['NULL'],"['NULL', 'apexlegends', 'Dizzy']","['NULL', 'combat', 'shield', 'push', 'tvz']"
+['NULL'],"['NULL', 'apexlegends', 'Main_Page']","['NULL', 'baneling', 'rush', 'build', 'zvz']"
+['NULL'],"['NULL', 'apexlegends', 'Main_Page']","['NULL', 'beginners', 'starcraft', '2', 'guide']"
+['NULL'],"['NULL', 'apexlegends', 'ApexPro', 'North_American_League', 'Season_4']","['NULL', 'contact', 'us']"
+['NULL'],"['NULL', 'starcraft', 'Main_Page']","['NULL', 'beginners', 'starcraft', '2', 'guide']"
+['NULL'],"['NULL', 'apexlegends', 'Kill_Records']","['NULL', 'combat', 'shield', 'push', 'tvz']"
+['NULL'],"['NULL', 'apexlegends', 'Revenant_Esports_EU']","['NULL', 'disclaimer']"
+['NULL'],"['NULL', 'apexlegends', 'Kill_Records']","['NULL', 'combat', 'shield', 'push', 'tvz']"
+['NULL'],"['NULL', 'apexlegends', 'Revenant_Esports_EU']","['NULL', 'contact', 'us']"
+['NULL'],"['NULL', 'apexlegends', 'Kill_Records']","['NULL', 'double', 'proxy', 'rax', 'build', 'order', 'tvz']"
+['NULL'],"['NULL', 'apexlegends', 'Dizzy']","['NULL', 'contact', 'us']"
+['NULL'],"['NULL', 'arenaofvalor', 'Arena_of_Valor_World_Cup', '2019']","['NULL', 'disclaimer']"
+['NULL'],"['NULL', 'starcraft', 'Units']","['NULL', 'how', 'to', 'improve', 'apm', 'in', 'starcraft', '2', 'a', 'guide']"
+['NULL'],"['NULL', 'apexlegends', 'Main_Page']","['NULL', 'disclaimer']"
+['NULL'],"['NULL', 'arenaofvalor', 'Arena_of_Valor_World_Cup', '2019']","['NULL', 'double', 'proxy', 'rax', 'build', 'order', 'tvz']"
+['NULL'],"['NULL', 'arenaofvalor', 'Garena_Challenger_Series', '2019', 'Spring']","['NULL', 'mass', 'roach', 'build', 'zvp']"
+['NULL'],"['NULL', 'apexlegends', 'Main_Page']","['NULL', 'double', 'proxy', 'rax', 'build', 'order', 'tvz']"
+['NULL'],"['NULL', 'apexlegends', 'Kill_Records']","['NULL', 'how', 'to', 'improve', 'apm', 'in', 'starcraft', '2', 'a', 'guide']"
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_1', 'Code_S']","['NULL', 'how', 'to', 'improve', 'apm', 'in', 'starcraft', '2', 'a', 'guide']"
+['NULL'],"['NULL', 'arenaofvalor', 'Arena_of_Valor_World_Cup', '2019']","['NULL', 'mass', 'zerglings', 'ultralisk', 'build', 'zvp']"
+['NULL'],"['NULL', 'arenaofvalor', 'King_Pro_League', '2019', 'Spring']","['NULL', 'mass', 'roach', 'build', 'zvp']"
+['NULL'],"['NULL', 'arenaofvalor', 'Garena_Challenger_Series', '2019', 'Spring']","['NULL', 'mass', 'roach', 'build', 'zvp']"
+['NULL'],"['NULL', 'apexlegends', 'Main_Page']","['NULL', 'privacy', 'policy']"
+['NULL'],"['NULL', 'apexlegends', 'Revenant_Esports_EU']","['NULL', 'mass', 'zerglings', 'ultralisk', 'build', 'zvp']"
+['NULL'],"['NULL', 'apexlegends', 'Revenant_Esports_EU']","['NULL', 'mass', 'zerglings', 'ultralisk', 'build', 'zvp']"
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2']","['NULL', 'protoss', 'army', 'compositions']"
+['NULL'],"['NULL', 'arenaofvalor', 'Korea_King_Pro_League', '2019', 'Spring']","['NULL', 'privacy', 'policy']"
+['NULL'],"['NULL', 'arenaofvalor', 'Arena_of_Valor_World_Cup', '2019']","['NULL', 'privacy', 'policy']"
+['NULL'],"['NULL', 'apexlegends', 'Revenant_Esports_EU']","['NULL', 'proxy', '2', 'gate', 'rush', 'build', 'pvt']"
+['NULL'],"['NULL', 'arenaofvalor', 'Garena_Challenger_Series', '2019', 'Spring']","['NULL', 'protoss', 'army', 'compositions']"
+['NULL'],"['NULL', 'arenaofvalor', 'King_Pro_League', '2019', 'Spring']","['NULL', 'protoss', 'army', 'compositions']"
+['NULL'],"['NULL', 'arenaofvalor', 'Arena_of_Valor_World_Cup', '2019']","['NULL', 'proxy', 'hatchery', 'block', 'zvp']"
+['NULL'],"['NULL', 'arenaofvalor', 'Arena_of_Valor_World_Cup', '2019']","['NULL', 'proxy', '2', 'gate', 'rush', 'build', 'pvt']"
+['NULL'],"['NULL', 'arenaofvalor', 'Main_Page']","['NULL', 'proxy', '2', 'gate', 'rush', 'build', 'pvt']"
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2', 'Code_S']","['NULL', 'race', 'match', 'ups']"
+['NULL'],"['NULL', 'arenaofvalor', 'Garena_Challenger_Series', '2019', 'Spring']","['NULL', 'proxy', 'hatchery', 'block', 'zvp']"
+['NULL'],"['NULL', 'arenaofvalor', 'King_Pro_League', '2019', 'Spring']","['NULL', 'proxy', 'hatchery', 'block', 'zvp']"
+['NULL'],"['NULL', 'arenaofvalor', 'Arena_of_Valor_World_Cup', '2019']","['NULL', 'race', 'match', 'ups']"
+['NULL'],"['NULL', 'arenaofvalor', 'Road_to_AWC', '2019']","['NULL', 'safe', 'zvp', 'fast', 'third', 'build']"
+['NULL'],"['NULL', 'arenaofvalor', 'Korea_King_Pro_League', '2019', 'Spring']","['NULL', 'race', 'match', 'ups']"
+['NULL'],"['NULL', 'arenaofvalor', 'Garena_Challenger_Series', '2019', 'Spring']","['NULL', 'safe', 'zvp', 'fast', 'third', 'build']"
+['NULL'],"['NULL', 'starcraft2', '2019_WCS_Spring']","['NULL', 'sc2', 'replays']"
+['NULL'],"['NULL', 'artifact', 'Artifact_Preview_Tournament']","['NULL', 'safe', 'zvp', 'fast', 'third', 'build']"
+['NULL'],"['NULL', 'arenaofvalor', 'King_Pro_League', '2019', 'Spring']","['NULL', 'sc2', 'replays']"
+['NULL'],"['NULL', 'arenaofvalor', 'Garena_Challenger_Series', '2019', 'Spring']","['NULL', 'scouting', 'in', 'starcraft', '2']"
+['NULL'],"['NULL', 'arenaofvalor', 'Korea_King_Pro_League', '2019', 'Spring']","['NULL', 'sc2', 'replays']"
+['NULL'],"['NULL', 'arenaofvalor', 'King_Pro_League', '2019', 'Spring']","['NULL', 'scouting', 'in', 'starcraft', '2']"
+['NULL'],"['NULL', 'starcraft2', 'Main_Page']","['NULL', 'sitemap', 'page', 'order']"
+['NULL'],['NULL'],"['NULL', 'scouting', 'in', 'starcraft', '2']"
+['NULL'],"['NULL', 'arenaofvalor', 'King_Pro_League', '2019', 'Spring']","['NULL', 'sitemap', 'page', 'order']"
+['NULL'],"['NULL', 'arenaofvalor', 'Korea_King_Pro_League', '2019', 'Spring']","['NULL', 'starcraft', '2', '2v2', 'strategy']"
+['NULL'],"['NULL', 'arenaofvalor', 'King_Pro_League', '2019', 'Spring']","['NULL', 'sitemap', 'page', 'order']"
+['NULL'],"['NULL', 'artifact', 'Hyped']","['NULL', 'starcraft', '2', '2v2', 'strategy']"
+['NULL'],"['NULL', 'arenaofvalor', 'Korea_King_Pro_League', '2019', 'Spring']","['NULL', 'starcraft', '2', 'campaign', 'mode', 'strategy']"
+['NULL'],"['NULL', 'arenaofvalor', 'Road_to_AWC', '2019']","['NULL', 'starcraft', '2', '2v2', 'strategy']"
+['NULL'],"['NULL', 'arenaofvalor', 'Main_Page']","['NULL', 'starcraft', '2', 'campaign', 'mode', 'strategy']"
+['NULL'],"['NULL', 'arenaofvalor', 'Korea_King_Pro_League', '2019', 'Spring']","['NULL', 'starcraft', '2', 'challenges', 'guide']"
+['NULL'],"['NULL', 'teamfortress', 'Ascent']","['NULL', 'starcraft', '2', 'campaign', 'mode', 'strategy']"
+['NULL'],"['NULL', 'arenaofvalor', 'Korea_King_Pro_League', '2019', 'Spring']","['NULL', 'starcraft', '2', 'challenges', 'guide']"
+['NULL'],"['NULL', 'artifact', 'Main_Page']","['NULL', 'starcraft', '2', 'counters', 'list']"
+['NULL'],"['NULL', 'arenaofvalor', 'Main_Page']","['NULL', 'starcraft', '2', 'challenges', 'guide']"
+['NULL'],"['NULL', 'arenaofvalor', 'Main_Page']","['NULL', 'starcraft', '2', 'counters', 'list']"
+['NULL'],"['NULL', 'arenaofvalor', 'Road_to_AWC', '2019']","['NULL', 'starcraft', '2', 'economy', 'management']"
+['NULL'],"['NULL', 'artifact', 'DAEDGEAM_Cup']","['NULL', 'starcraft', '2', 'economy', 'management']"
+['NULL'],"['NULL', 'artifact', 'NoxFire_League', 'Season_2']","['NULL', 'starcraft', '2', 'heart', 'of', 'the', 'swarm', 'campaign', 'guide']"
+['NULL'],"['NULL', 'arenaofvalor', 'Main_Page']","['NULL', 'starcraft', '2', 'counters', 'list']"
+['NULL'],"['NULL', 'arenaofvalor', 'Main_Page']","['NULL', 'starcraft', '2', 'heart', 'of', 'the', 'swarm', 'campaign', 'guide']"
+['NULL'],"['NULL', 'teamfortress', 'B4nny']","['NULL', 'starcraft', '2', 'heart', 'of', 'the', 'swarm', 'strategy', 'guide']"
+['NULL'],"['NULL', 'arenaofvalor', 'Road_to_AWC', '2019']","['NULL', 'starcraft', '2', 'economy', 'management']"
+['NULL'],"['NULL', 'artifact', 'DAEDGEAM_Cup']","['NULL', 'starcraft', '2', 'heart', 'of', 'the', 'swarm', 'strategy', 'guide']"
+['NULL'],"['NULL', 'arenaofvalor', 'Road_to_AWC', '2019']","['NULL', 'starcraft', '2', 'heart', 'of', 'the', 'swarm', 'campaign', 'guide']"
+['NULL'],"['NULL', 'artifact', 'Xixo']","['NULL', 'starcraft', '2', 'map', 'strategies']"
+['NULL'],"['NULL', 'artifact', 'Hyped']","['NULL', 'starcraft', '2', 'map', 'strategies']"
+['NULL'],"['NULL', 'arenaofvalor', 'Road_to_AWC', '2019']","['NULL', 'starcraft', '2', 'new', 'units', 'available', 'in', 'heart', 'of', 'the', 'swarm']"
+['NULL'],"['NULL', 'teamfortress', 'ESEA', 'Season_31', 'Invite', 'North_America']","['NULL', 'starcraft', '2', 'heart', 'of', 'the', 'swarm', 'strategy', 'guide']"
+['NULL'],"['NULL', 'artifact', 'Artifact_Preview_Tournament']","['NULL', 'starcraft', '2', 'new', 'units', 'available', 'in', 'heart', 'of', 'the', 'swarm']"
+['NULL'],"['NULL', 'artifact', 'Hyped']","['NULL', 'starcraft', '2', 'newsletter']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'Asia', 'Season_1']","['NULL', 'starcraft', '2', 'map', 'strategies']"
+['NULL'],"['NULL', 'arenaofvalor', 'Road_to_AWC', '2019']","['NULL', 'starcraft', '2', 'newsletter']"
+['NULL'],"['NULL', 'artifact', 'DAEDGEAM_Cup']","['NULL', 'starcraft', '2', 'protoss', 'build', 'orders']"
+['NULL'],"['NULL', 'teamfortress', 'Froyotech']","['NULL', 'starcraft', '2', 'new', 'units', 'available', 'in', 'heart', 'of', 'the', 'swarm']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'Asia', 'Season_1', 'Group_Stage']","['NULL', 'starcraft', '2', 'protoss', 'build', 'orders']"
+['NULL'],"['NULL', 'artifact', 'Main_Page']","['NULL', 'starcraft', '2', 'protoss', 'counters']"
+['NULL'],"['NULL', 'artifact', 'DAEDGEAM_Cup']","['NULL', 'starcraft', '2', 'newsletter']"
+['NULL'],"['NULL', 'artifact', 'Artifact_Preview_Tournament']","['NULL', 'starcraft', '2', 'protoss', 'counters']"
+['NULL'],"['NULL', 'artifact', 'DAEDGEAM_Cup']","['NULL', 'starcraft', '2', 'protoss', 'guide']"
+['NULL'],"['NULL', 'artifact', 'Main_Page']","['NULL', 'starcraft', '2', 'protoss', 'build', 'orders']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'China', 'Spring']","['NULL', 'starcraft', '2', 'protoss', 'guide']"
+['NULL'],"['NULL', 'artifact', 'Hyped']","['NULL', 'starcraft', '2', 'protoss', 'strategy']"
+['NULL'],"['NULL', 'artifact', 'Hyped']","['NULL', 'starcraft', '2', 'protoss', 'counters']"
+['NULL'],"['NULL', 'teamfortress', 'Habib']","['NULL', 'starcraft', '2', 'protoss', 'strategy']"
+['NULL'],"['NULL', 'artifact', 'DAEDGEAM_Cup']","['NULL', 'starcraft', '2', 'protoss', 'structures']"
+['NULL'],"['NULL', 'artifact', 'Hyped']","['NULL', 'starcraft', '2', 'protoss', 'guide']"
+['NULL'],['NULL'],"['NULL', 'starcraft', '2', 'protoss', 'structures']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'West', 'Spring']","['NULL', 'starcraft', '2', 'protoss', 'tips']"
+['NULL'],"['NULL', 'artifact', 'Main_Page']","['NULL', 'starcraft', '2', 'protoss', 'tips']"
+['NULL'],"['NULL', 'artifact', 'NoxFire_League', 'Season_2']","['NULL', 'starcraft', '2', 'protoss', 'strategy']"
+['NULL'],"['NULL', 'teamfortress', 'Main_Page']","['NULL', 'starcraft', '2', 'protoss', 'units']"
+['NULL'],"['NULL', 'artifact', 'Hyped']","['NULL', 'starcraft', '2', 'protoss', 'units']"
+['NULL'],"['NULL', 'artifact', 'Xixo']","['NULL', 'starcraft', '2', 'protoss', 'structures']"
+['NULL'],"['NULL', 'clashroyale', 'Main_Page']","['NULL', 'starcraft', '2', 'strategy', 'tricks', 'and', 'manipulation', 'as', 'a', 'high', 'end', 'strategy']"
+['NULL'],"['NULL', 'artifact', 'Main_Page']","['NULL', 'starcraft', '2', 'strategy', 'tricks', 'and', 'manipulation', 'as', 'a', 'high', 'end', 'strategy']"
+['NULL'],"['NULL', 'artifact', 'NoxFire_League', 'Season_2']","['NULL', 'starcraft', '2', 'protoss', 'tips']"
+['NULL'],"['NULL', 'artifact', 'Main_Page']","['NULL', 'starcraft', '2', 'terran', 'counters']"
+['NULL'],"['NULL', 'artifact', 'Xixo']","['NULL', 'starcraft', '2', 'terran', 'counters']"
+['NULL'],"['NULL', 'clashroyale', 'Surgical_Goblin']","['NULL', 'starcraft', '2', 'protoss', 'units']"
+['NULL'],"['NULL', 'warcraft', 'Main_Page']","['NULL', 'starcraft', '2', 'terran', 'guide']"
+['NULL'],"['NULL', 'artifact', 'Main_Page']","['NULL', 'starcraft', '2', 'terran', 'guide']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'Asia', 'Season_1']","['NULL', 'starcraft', '2', 'strategy', 'tricks', 'and', 'manipulation', 'as', 'a', 'high', 'end', 'strategy']"
+['NULL'],"['NULL', 'artifact', 'NoxFire_League', 'Season_2']","['NULL', 'starcraft', '2', 'terran', 'strategy']"
+['NULL'],"['NULL', 'artifact', 'NoxFire_League', 'Season_2']","['NULL', 'starcraft', '2', 'terran', 'strategy']"
+['NULL'],"['NULL', 'commons', 'Copyrights_Repository']","['NULL', 'starcraft', '2', 'terran', 'counters']"
+['NULL'],"['NULL', 'artifact', 'Xixo']","['NULL', 'starcraft', '2', 'terran', 'structures']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'Asia', 'Season_1']","['NULL', 'starcraft', '2', 'terran', 'structures']"
+['NULL'],"['NULL', 'warcraft', 'NeXT', '2019_Spring']","['NULL', 'starcraft', '2', 'terran', 'guide']"
+['NULL'],"['NULL', 'artifact', 'NoxFire_League', 'Season_2']","['NULL', 'starcraft', '2', 'terran', 'units']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'Asia', 'Season_1', 'Group_Stage']","['NULL', 'starcraft', '2', 'terran', 'units']"
+['NULL'],"['NULL', 'commons', 'Liquipedia:Latest_Uploads']","['NULL', 'starcraft', '2', 'terran', 'strategy']"
+['NULL'],"['NULL', 'artifact', 'Xixo']","['NULL', 'starcraft', '2', 'zerg', 'build', 'orders']"
+['NULL'],"['NULL', 'artifact', 'Xixo']","['NULL', 'starcraft', '2', 'zerg', 'build', 'orders']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'Asia', 'Season_1']","['NULL', 'starcraft', '2', 'terran', 'structures']"
+['NULL'],['NULL'],"['NULL', 'starcraft', '2', 'zerg', 'counters']"
+['NULL'],"['NULL', 'commons', 'Liquipedia:Privacy_policy']","['NULL', 'starcraft', '2', 'zerg', 'counters']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'China', 'Spring']","['NULL', 'starcraft', '2', 'terran', 'units']"
+['NULL'],"['NULL', 'warcraft', 'The_Iron_Couch']","['NULL', 'starcraft', '2', 'zerg', 'guide']"
+['NULL'],"['NULL', 'artifact', 'Xixo']","['NULL', 'starcraft', '2', 'zerg', 'guide']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'Asia', 'Season_1']","['NULL', 'starcraft', '2', 'zerg', 'build', 'orders']"
+['NULL'],"['NULL', 'commons', 'Main_Page']","['NULL', 'starcraft', '2', 'zerg', 'strategy']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'Asia', 'Season_1', 'Group_Stage']","['NULL', 'starcraft', '2', 'zerg', 'strategy']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'Asia', 'Season_1']","['NULL', 'starcraft', '2', 'zerg', 'counters']"
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Gold_League', '2019', 'Summer', 'European_Qualifier']","['NULL', 'starcraft', '2', 'zerg', 'structures']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'Asia', 'Season_1']","['NULL', 'starcraft', '2', 'zerg', 'structures']"
+['NULL'],"['NULL', 'commons', 'Special:RunQuery', 'Find_images']","['NULL', 'starcraft', '2', 'zerg', 'tips']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'West', 'Spring']","['NULL', 'starcraft', '2', 'zerg', 'tips']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'Asia', 'Season_1', 'Group_Stage']","['NULL', 'starcraft', '2', 'zerg', 'guide']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'China', 'Spring']","['NULL', 'starcraft', '2', 'zerg', 'units']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'Asia', 'Season_1', 'Group_Stage']","['NULL', 'starcraft', '2', 'zerg', 'units']"
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Survival_Battle']","['NULL', 'starcraft', '2', 'zerg', 'strategy']"
+['NULL'],"['NULL', 'commons', 'Special:Upload']","['NULL', 'starcraft', '2', 'zerg', 'vs', 'protoss', 'strategy']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'Asia', 'Season_1', 'Group_Stage']","['NULL', 'starcraft', '2', 'zerg', 'vs', 'protoss', 'strategy']"
+['NULL'],"['NULL', 'clashroyale', 'Main_Page']","['NULL', 'starcraft', '2', 'zerg', 'structures']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'China', 'Spring']","['NULL', 'starcraft', '2', 'zerg', 'vs', 'terran', 'strategy']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'China', 'Spring']","['NULL', 'starcraft', '2', 'zerg', 'vs', 'terran', 'strategy']"
+['NULL'],"['NULL', 'counterstrike', 'BLAST', 'Pro_Series', '2019', 'Madrid']","['NULL', 'starcraft', '2', 'zerg', 'tips']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'China', 'Spring']","['NULL', 'starcraft', '2', 'zerg', 'vs', 'zerg', 'strategy']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'West', 'Spring']","['NULL', 'starcraft', '2', 'zerg', 'vs', 'zerg', 'strategy']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'China', 'Spring']","['NULL', 'starcraft', '2', 'zerg', 'units']"
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_Cup', '2019', 'EU', '6']","['NULL', 'terran', 'army', 'compositions']"
+['NULL'],"['NULL', 'clashroyale', 'Surgical_Goblin']","['NULL', 'terran', 'army', 'compositions']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'West', 'Spring']","['NULL', 'starcraft', '2', 'zerg', 'vs', 'protoss', 'strategy']"
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne']","['NULL', 'terran', 'build', 'orders']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'West', 'Spring']","['NULL', 'terran', 'build', 'orders']"
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne', 'Asia']","['NULL', 'the', 'osiris', 'method']"
+['NULL'],"['NULL', 'clashroyale', 'Main_Page']","['NULL', 'starcraft', '2', 'zerg', 'vs', 'terran', 'strategy']"
+['NULL'],['NULL'],"['NULL', 'the', 'osiris', 'method']"
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne', 'Europe']","['NULL', 'triple', 'bunker', 'rush', 'build', 'order']"
+['NULL'],"['NULL', 'clashroyale', 'Main_Page']","['NULL', 'starcraft', '2', 'zerg', 'vs', 'zerg', 'strategy']"
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_World_Championship', '2017']","['NULL', 'triple', 'bunker', 'rush', 'build', 'order']"
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'West', 'Spring']","['NULL', 'widow', 'mine', 'marine', 'drop', 'tvp']"
+['NULL'],"['NULL', 'counterstrike', 'Heroic']","['NULL', 'terran', 'army', 'compositions']"
+['NULL'],"['NULL', 'clashroyale', 'Surgical_Goblin']","['NULL', 'widow', 'mine', 'marine', 'drop', 'tvp']"
+['NULL'],"['NULL', 'clashroyale', 'Surgical_Goblin']","['NULL', 'zerg', 'army', 'compositions']"
+['NULL'],"['NULL', 'commons', 'Liquipedia:Privacy_policy']","['NULL', 'terran', 'build', 'orders']"
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_World_Championship', '2018']","['NULL', 'zerg', 'army', 'compositions']"
+['NULL'],"['NULL', 'counterstrike', 'Main_Page']","['NULL', 'the', 'osiris', 'method']"
+['NULL'],"['NULL', 'clashroyale', 'Main_Page']","['NULL', 'triple', 'bunker', 'rush', 'build', 'order']"
+['NULL'],"['NULL', 'clashroyale', 'Main_Page']","['NULL', 'widow', 'mine', 'marine', 'drop', 'tvp']"
+['NULL'],"['NULL', 'commons', 'Main_Page']","['NULL', 'zerg', 'army', 'compositions']"
+['NULL'],['NULL'],['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Main_Page']",['NULL']
+['NULL'],['NULL'],['NULL']
+['NULL'],"['NULL', 'discord']",['NULL']
+['NULL'],"['NULL', 'clashroyale', 'Clash_Royale_League', '2019', 'West', 'Spring']",['NULL']
+['NULL'],"['NULL', 'clashroyale', 'Surgical_Goblin']",['NULL']
+['NULL'],"['NULL', 'clashroyale', 'Surgical_Goblin']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Chaos_Esports_Club']",['NULL']
+['NULL'],"['NULL', 'commons', 'Liquipedia:Latest_Uploads']",['NULL']
+['NULL'],"['NULL', 'commons', 'Liquipedia:Latest_Uploads']",['NULL']
+['NULL'],"['NULL', 'clashroyale', 'Main_Page']",['NULL']
+['NULL'],['NULL'],['NULL']
+['NULL'],"['NULL', 'commons', 'Copyrights_Repository']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Dota_Pro_Circuit', '2018', '19']",['NULL']
+['NULL'],"['NULL', 'commons', 'Special:RunQuery', 'Find_images']",['NULL']
+['NULL'],"['NULL', 'commons', 'Copyrights_Repository']",['NULL']
+['NULL'],"['NULL', 'commons', 'Liquipedia:Privacy_policy']",['NULL']
+['NULL'],"['NULL', 'commons', 'Liquipedia:Privacy_policy']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Seasonal_Championships', '2019', 'Spring_Finals']",['NULL']
+['NULL'],"['NULL', 'clashroyale', 'Surgical_Goblin']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Dota_Pro_Circuit', '2018', '19', 'Rankings']",['NULL']
+['NULL'],"['NULL', 'commons', 'Liquipedia:Latest_Uploads']",['NULL']
+['NULL'],"['NULL', 'commons', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'commons', 'Liquipedia:Latest_Uploads']",['NULL']
+['NULL'],"['NULL', 'commons', 'Special:Upload']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'commons', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'commons', 'Copyrights_Repository']",['NULL']
+['NULL'],"['NULL', 'commons', 'Liquipedia:Privacy_policy']",['NULL']
+['NULL'],"['NULL', 'commons', 'Liquipedia:Privacy_policy']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Mars_Dota_2_League', 'Disneyland_Paris_Major']",['NULL']
+['NULL'],"['NULL', 'commons', 'Special:RunQuery', 'Find_images']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'BLAST', 'Pro_Series', '2019', 'Madrid']",['NULL']
+['NULL'],"['NULL', 'commons', 'Liquipedia:Latest_Uploads']",['NULL']
+['NULL'],"['NULL', 'dota2', 'The_International', '2019']",['NULL']
+['NULL'],"['NULL', 'commons', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'commons', 'Special:Upload']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne']",['NULL']
+['NULL'],"['NULL', 'commons', 'Special:Upload']",['NULL']
+['NULL'],"['NULL', 'commons', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'fighters', 'GO1']",['NULL']
+['NULL'],"['NULL', 'commons', 'Liquipedia:Privacy_policy']",['NULL']
+['NULL'],"['NULL', 'commons', 'Special:RunQuery', 'Find_images']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'BLAST', 'Pro_Series', '2019', 'Madrid']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'BLAST', 'Pro_Series', '2019', 'Madrid']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'commons', 'Special:RunQuery', 'Find_images']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne', 'Asia']",['NULL']
+['NULL'],"['NULL', 'commons', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'commons', 'Special:Upload']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Rangchu']",['NULL']
+['NULL'],"['NULL', 'commons', 'Special:Upload']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne', 'Europe']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'BLAST', 'Pro_Series', '2019', 'Madrid']",['NULL']
+['NULL'],"['NULL', 'fighters', 'SonicFox']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne', 'Asia']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'Heroic']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Summit_of_Time', '2019']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne', 'Asia']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'BLAST', 'Pro_Series', '2019', 'Madrid']",['NULL']
+['NULL'],"['NULL', 'fighters', 'YUYU']",['NULL']
+['NULL'],['NULL'],['NULL']
+['NULL'],"['NULL', 'fortnite', '72hrs']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne']",['NULL']
+['NULL'],['NULL'],['NULL']
+['NULL'],"['NULL', 'counterstrike', 'BLAST', 'Pro_Series', '2019', 'Madrid']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne', 'Asia']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Chap']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Fortnite_World_Cup', '2019', 'Finals', 'Duos']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne', 'Europe']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne', 'Asia']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'Heroic']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne', 'Europe']",['NULL']
+['NULL'],['NULL'],['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'Heroic']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Chaos_Esports_Club']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne', 'Asia']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Tfue']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne', 'Europe']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'Heroic']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Dota_Pro_Circuit', '2018', '19']",['NULL']
+['NULL'],"['NULL', 'discord']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'ESL', 'One', '2019', 'Cologne', 'Europe']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Alliestrasza']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'Heroic']",['NULL']
+['NULL'],"['NULL', 'discord']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Dota_Pro_Circuit', '2018', '19', 'Rankings']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Hearthstone_World_Championship_2019']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'Heroic']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Chaos_Esports_Club']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Hunterace']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Dota_Pro_Circuit', '2018', '19']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Dota_Pro_Circuit', '2018', '19']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'discord']",['NULL']
+['NULL'],"['NULL', 'discord']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Dota_Pro_Circuit', '2018', '19', 'Rankings']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Reynad']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Dota_Pro_Circuit', '2018', '19', 'Rankings']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Chaos_Esports_Club']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Chaos_Esports_Club']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Thijs']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Dota_Pro_Circuit', '2018', '19']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Mars_Dota_2_League', 'Disneyland_Paris_Major']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Mars_Dota_2_League', 'Disneyland_Paris_Major']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe', '1']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Dota_Pro_Circuit', '2018', '19', 'Rankings']",['NULL']
+['NULL'],"['NULL', 'dota2', 'The_International', '2019']",['NULL']
+['NULL'],"['NULL', 'dota2', 'The_International', '2019']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe', '2']",['NULL']
+['NULL'],"['NULL', 'fighters', 'GO1']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Heroes_Lounge_Division_S', 'Season_1', 'Europe']",['NULL']
+['NULL'],"['NULL', 'fighters', 'GO1']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Mars_Dota_2_League', 'Disneyland_Paris_Major']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Heroes_Lounge_Division_S', 'Season_1', 'Europe', '2']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Rangchu']",['NULL']
+['NULL'],"['NULL', 'dota2', 'The_International', '2019']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Rangchu']",['NULL']
+['NULL'],"['NULL', 'fighters', 'SonicFox']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'LDL', '2019', 'Spring']",['NULL']
+['NULL'],"['NULL', 'fighters', 'GO1']",['NULL']
+['NULL'],"['NULL', 'fighters', 'SonicFox']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Summit_of_Time', '2019']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Summit_of_Time', '2019']",['NULL']
+['NULL'],"['NULL', 'fighters', 'YUYU']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Rangchu']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019']",['NULL']
+['NULL'],"['NULL', 'fighters', 'YUYU']",['NULL']
+['NULL'],"['NULL', 'fighters', 'SonicFox']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019', 'Group_Stage']",['NULL']
+['NULL'],"['NULL', 'fortnite', '72hrs']",['NULL']
+['NULL'],"['NULL', 'fortnite', '72hrs']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Summit_of_Time', '2019']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019', 'Play', 'In']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Chap']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Chap']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Team_Liquid']",['NULL']
+['NULL'],"['NULL', 'fighters', 'YUYU']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Fortnite_World_Cup', '2019', 'Finals', 'Duos']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Fortnite_World_Cup', '2019', 'Finals', 'Duos']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Dallas_Fuel']",['NULL']
+['NULL'],"['NULL', 'fortnite', '72hrs']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Fortnite_World_Cup', '2019', 'Finals', 'Solo']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Fortnite_World_Cup', '2019', 'Finals', 'Solo']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Dota_Pro_Circuit', '2018', '19']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Chap']",['NULL']
+['NULL'],"['NULL', 'counterstrike', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Mars_Dota_2_League', 'Disneyland_Paris_Major']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Dota_Pro_Circuit', '2018', '19', 'Rankings']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Fortnite_World_Cup', '2019', 'Finals', 'Duos']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Tfue']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Tfue']",['NULL']
+['NULL'],"['NULL', 'dota2', 'The_International', '2019']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Chaos_Esports_Club']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Fortnite_World_Cup', '2019', 'Finals', 'Solo']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Alliestrasza']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Alliestrasza']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Mars_Dota_2_League', 'Disneyland_Paris_Major']",['NULL']
+['NULL'],"['NULL', 'fighters', 'GO1']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Dota_Pro_Circuit', '2018', '19']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Hearthstone_World_Championship_2019']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'dota2', 'The_International', '2019']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Hearthstone_World_Championship_2019']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Dota_Pro_Circuit', '2018', '19', 'Rankings']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Tfue']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Hunterace']",['NULL']
+['NULL'],"['NULL', 'fighters', 'GO1']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Rangchu']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Hunterace']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Alliestrasza']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'fighters', 'SonicFox']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Hearthstone_World_Championship_2019']",['NULL']
+['NULL'],"['NULL', 'dota2', 'Mars_Dota_2_League', 'Disneyland_Paris_Major']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Summit_of_Time', '2019']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Reynad']",['NULL']
+['NULL'],"['NULL', 'dota2', 'The_International', '2019']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Reynad']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Hunterace']",['NULL']
+['NULL'],"['NULL', 'fighters', 'YUYU']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Thijs']",['NULL']
+['NULL'],"['NULL', 'fighters', 'GO1']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Thijs']",['NULL']
+['NULL'],"['NULL', 'fortnite', '72hrs']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Main_Page']",['NULL']
+['NULL'],['NULL'],['NULL']
+['NULL'],"['NULL', 'fighters', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Chap']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season', 'Stage_2']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe', '1']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Reynad']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe', '1']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Rangchu']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season', 'Stage_2', 'Playoffs']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Fortnite_World_Cup', '2019', 'Finals', 'Duos']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Thijs']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe', '2']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe', '2']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Heroes_Lounge_Division_S', 'Season_1', 'Europe']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Fortnite_World_Cup', '2019', 'Finals', 'Solo']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Heroes_Lounge_Division_S', 'Season_1', 'Europe']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Summit_of_Time', '2019']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Mid', 'Season_Invitational', '2019']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Heroes_Lounge_Division_S', 'Season_1', 'Europe', '2']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe', '1']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Heroes_Lounge_Division_S', 'Season_1', 'Europe', '2']",['NULL']
+['NULL'],"['NULL', 'fighters', 'YUYU']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Natus_Vincere']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe', '2']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Tfue']",['NULL']
+['NULL'],"['NULL', 'fortnite', '72hrs']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Ninjas_in_Pyjamas']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'LDL', '2019', 'Spring']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Heroes_Lounge_Division_S', 'Season_1', 'Europe']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Alliestrasza']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Paladins_Premier_League', '2019', 'Phase_1']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Chap']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Hearthstone_World_Championship_2019']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Paladins_Premier_League', '2019', 'Phase_1', 'Group_Stage']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Fortnite_World_Cup', '2019', 'Finals', 'Duos']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Hunterace']",['NULL']
+['NULL'],"['NULL', 'pubg', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Rangchu']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019', 'Group_Stage']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Fortnite_World_Cup', '2019', 'Finals', 'Solo']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019']",['NULL']
+['NULL'],"['NULL', 'fighters', 'SonicFox']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia']",['NULL']
+['NULL'],"['NULL', 'fighters', 'Summit_of_Time', '2019']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Reynad']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Tfue']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia', 'League']",['NULL']
+['NULL'],"['NULL', 'fighters', 'YUYU']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Alliestrasza']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia', 'League', 'Week_1']",['NULL']
+['NULL'],"['NULL', 'fortnite', '72hrs']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Thijs']",['NULL']
+['NULL'],['NULL'],['NULL']
+['NULL'],"['NULL', 'pubg', 'RRQ_Athena']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Chap']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Hunterace']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe']",['NULL']
+['NULL'],"['NULL', 'quake', 'CYpheR']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Fortnite_World_Cup', '2019', 'Finals', 'Duos']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe', '1']",['NULL']
+['NULL'],"['NULL', 'quake', 'Clawz']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Fortnite_World_Cup', '2019', 'Finals', 'Solo']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Reynad']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe', '2']",['NULL']
+['NULL'],"['NULL', 'quake', 'Cooller']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Thijs']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Heroes_Lounge_Division_S', 'Season_1', 'Europe']",['NULL']
+['NULL'],"['NULL', 'quake', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'fortnite', 'Tfue']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Heroes_Lounge_Division_S', 'Season_1', 'Europe', '2']",['NULL']
+['NULL'],"['NULL', 'quake', 'Rapha']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Alliestrasza']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe', '1']",['NULL']
+['NULL'],"['NULL', 'quake', 'Toxjq']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Hearthstone_World_Championship_2019']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'LDL', '2019', 'Spring']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe', '2']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Challenger_League', 'Season_9', 'Europe']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Hunterace']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Heroes_Lounge_Division_S', 'Season_1', 'Europe']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Challenger_League', 'Season_9', 'Latin_America']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Heroes_Lounge_Division_S', 'Season_1', 'Europe', '2']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Reynad']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Europe']",['NULL']
+['NULL'],['NULL'],['NULL']
+['NULL'],"['NULL', 'hearthstone', 'Thijs']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'LDL', '2019', 'Spring']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe', '1']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019']",['NULL']
+['NULL'],"['NULL', 'heroes', 'HeroesHype_Premier_Series', 'Season_1', 'Europe', '2']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019', 'Group_Stage']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Heroes_Lounge_Division_S', 'Season_1', 'Europe']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019', 'Play', 'In']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Heroes_Lounge_Division_S', 'Season_1', 'Europe', '2']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Team_Liquid']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Heroes_Lounge_Division_S', 'Season_1', 'Europe', '2']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019', 'Play', 'In']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Dallas_Fuel']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Eternal_Academy']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Team_Liquid']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'LDL', '2019', 'Spring']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'LDL', '2019', 'Spring']",['NULL']
+['NULL'],"['NULL', 'heroes', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019', 'Play', 'In']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Dallas_Fuel']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Team_Liquid']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'LDL', '2019', 'Spring']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Finals']",['NULL']
+['NULL'],['NULL'],['NULL']
+['NULL'],"['NULL', 'overwatch', 'Eternal_Academy']",['NULL']
+['NULL'],['NULL'],['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season', 'Stage_2']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Eternal_Academy']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019', 'Group_Stage']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Latin_America']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season', 'Stage_2', 'Playoffs']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019', 'Play', 'In']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'List_of_player_camera_settings']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019', 'Group_Stage']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Team_Liquid']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Mid', 'Season_Invitational', '2019']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season', 'Stage_2']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Dallas_Fuel']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season', 'Stage_2']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019', 'Play', 'In']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Natus_Vincere']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Rocket_League_Championship_Series', 'Season_7', 'Europe']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season', 'Stage_2', 'Playoffs']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Eternal_Academy']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Team_Liquid']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Ninjas_in_Pyjamas']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season', 'Stage_2', 'Playoffs']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Rocket_League_Championship_Series', 'Season_7', 'North_America']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Mid', 'Season_Invitational', '2019', 'Play', 'In']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Dallas_Fuel']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Paladins_Premier_League', '2019', 'Phase_1']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Mid', 'Season_Invitational', '2019']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season']",['NULL']
+['NULL'],"['NULL', 'leagueoflegends', 'Team_Liquid']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Eternal_Academy']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Mid', 'Season_Invitational', '2019']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Paladins_Premier_League', '2019', 'Phase_1', 'Group_Stage']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season', 'Stage_2']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Natus_Vincere']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Dallas_Fuel']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Main_Page']",['NULL']
+['NULL'],['NULL'],['NULL']
+['NULL'],"['NULL', 'pubg', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season', 'Stage_2', 'Playoffs']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Ninjas_in_Pyjamas']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Ninjas_in_Pyjamas']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Eternal_Academy']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Paladins_Premier_League', '2019', 'Phase_1']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season', 'Stage_2']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Paladins_Premier_League', '2019', 'Phase_1']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Mid', 'Season_Invitational', '2019']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Paladins_Premier_League', '2019', 'Phase_1', 'Group_Stage']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Paladins_Premier_League', '2019', 'Phase_1', 'Group_Stage']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season', 'Stage_2', 'Playoffs']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Natus_Vincere']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia', 'League']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season', 'Stage_2']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Ninjas_in_Pyjamas']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia', 'League', 'Week_1']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Mid', 'Season_Invitational', '2019']",['NULL']
+['NULL'],"['NULL', 'overwatch', 'Overwatch_League', 'Season_2', 'Regular_Season', 'Stage_2', 'Playoffs']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019']",['NULL']
+['NULL'],"['NULL', 'pubg', 'RRQ_Athena']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Paladins_Premier_League', '2019', 'Phase_1']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Natus_Vincere']",['NULL']
+['NULL'],['NULL'],['NULL']
+['NULL'],"['NULL', 'paladins', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia']",['NULL']
+['NULL'],"['NULL', 'quake', 'CYpheR']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Paladins_Premier_League', '2019', 'Phase_1', 'Group_Stage']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Ninjas_in_Pyjamas']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia', 'League']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Mid', 'Season_Invitational', '2019']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia', 'League']",['NULL']
+['NULL'],"['NULL', 'quake', 'Clawz']",['NULL']
+['NULL'],"['NULL', 'pubg', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Paladins_Premier_League', '2019', 'Phase_1']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia', 'League', 'Week_1']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia', 'League', 'Week_1']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Natus_Vincere']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Paladins_Premier_League', '2019', 'Phase_1', 'Group_Stage']",['NULL']
+['NULL'],"['NULL', 'pubg', 'RRQ_Athena']",['NULL']
+['NULL'],"['NULL', 'pubg', 'RRQ_Athena']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Ninjas_in_Pyjamas']",['NULL']
+['NULL'],"['NULL', 'pubg', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia']",['NULL']
+['NULL'],"['NULL', 'quake', 'CYpheR']",['NULL']
+['NULL'],"['NULL', 'quake', 'CYpheR']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Paladins_Premier_League', '2019', 'Phase_1']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia', 'League']",['NULL']
+['NULL'],"['NULL', 'paladins', 'Paladins_Premier_League', '2019', 'Phase_1', 'Group_Stage']",['NULL']
+['NULL'],"['NULL', 'quake', 'Clawz']",['NULL']
+['NULL'],"['NULL', 'quake', 'Clawz']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia', 'League', 'Week_1']",['NULL']
+['NULL'],"['NULL', 'pubg', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'quake', 'Cooller']",['NULL']
+['NULL'],"['NULL', 'quake', 'Cooller']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia', 'League']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019']",['NULL']
+['NULL'],"['NULL', 'pubg', 'RRQ_Athena']",['NULL']
+['NULL'],"['NULL', 'quake', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'quake', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia', 'League', 'Week_1']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia']",['NULL']
+['NULL'],"['NULL', 'quake', 'CYpheR']",['NULL']
+['NULL'],"['NULL', 'quake', 'Rapha']",['NULL']
+['NULL'],"['NULL', 'pubg', 'RRQ_Athena']",['NULL']
+['NULL'],"['NULL', 'quake', 'Rapha']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia', 'League']",['NULL']
+['NULL'],"['NULL', 'quake', 'Clawz']",['NULL']
+['NULL'],"['NULL', 'quake', 'Toxjq']",['NULL']
+['NULL'],"['NULL', 'quake', 'Toxjq']",['NULL']
+['NULL'],"['NULL', 'pubg', 'PUBG_Mobile_Club_Open', 'Spring', '2019', 'Southeast_Asia', 'League', 'Week_1']",['NULL']
+['NULL'],"['NULL', 'quake', 'Cooller']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Challenger_League', 'Season_9', 'Europe']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Challenger_League', 'Season_9', 'Europe']",['NULL']
+['NULL'],"['NULL', 'pubg', 'RRQ_Athena']",['NULL']
+['NULL'],"['NULL', 'quake', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Challenger_League', 'Season_9', 'Latin_America']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Challenger_League', 'Season_9', 'Latin_America']",['NULL']
+['NULL'],"['NULL', 'quake', 'Rapha']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'quake', 'CYpheR']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Europe']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Europe']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Challenger_League', 'Season_9', 'Europe']",['NULL']
+['NULL'],"['NULL', 'quake', 'Clawz']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Finals']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Finals']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Challenger_League', 'Season_9', 'Latin_America']",['NULL']
+['NULL'],"['NULL', 'quake', 'Cooller']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Latin_America']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Latin_America']",['NULL']
+['NULL'],"['NULL', 'quake', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'List_of_player_camera_settings']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'List_of_player_camera_settings']",['NULL']
+['NULL'],"['NULL', 'quake', 'Rapha']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Europe']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'quake', 'Toxjq']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Finals']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Rocket_League_Championship_Series', 'Season_7', 'Europe']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Challenger_League', 'Season_9', 'Europe']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Latin_America']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Rocket_League_Championship_Series', 'Season_7', 'North_America']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Challenger_League', 'Season_9', 'Latin_America']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'List_of_player_camera_settings']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'SquishyMuffinz']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Yumi_cheeseman', 'The_Gauntlet', '9']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Europe']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Rocket_League_Championship_Series', 'Season_7', 'Europe']",['NULL']
+['NULL'],"['NULL', 'smash', 'Get_On_My_Level', '2019']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Finals']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Rocket_League_Championship_Series', 'Season_7', 'North_America']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Rocket_League_Championship_Series', 'Season_7', 'Europe']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Latin_America']",['NULL']
+['NULL'],"['NULL', 'smash', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'SquishyMuffinz']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Rocket_League_Championship_Series', 'Season_7', 'North_America']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'List_of_player_camera_settings']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Yumi_cheeseman', 'The_Gauntlet', '9']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'SquishyMuffinz']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'smash', 'SSBMRank']",['NULL']
+['NULL'],"['NULL', 'smash', 'Get_On_My_Level', '2019']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Yumi_cheeseman', 'The_Gauntlet', '9']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Rocket_League_Championship_Series', 'Season_7', 'Europe']",['NULL']
+['NULL'],"['NULL', 'smash', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'smash', 'Smash_Summit', '8']",['NULL']
+['NULL'],"['NULL', 'smash', 'Get_On_My_Level', '2019']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Rocket_League_Championship_Series', 'Season_7', 'North_America']",['NULL']
+['NULL'],"['NULL', 'smash', 'SSBMRank']",['NULL']
+['NULL'],"['NULL', 'smash', 'Thunder_Smash']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'SquishyMuffinz']",['NULL']
+['NULL'],"['NULL', 'smash', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'smash', 'Smash_Summit', '8']",['NULL']
+['NULL'],"['NULL', 'smash', 'Zero']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Yumi_cheeseman', 'The_Gauntlet', '9']",['NULL']
+['NULL'],"['NULL', 'smash', 'SSBMRank']",['NULL']
+['NULL'],"['NULL', 'starcraft', '2019_Korea_StarCraft_League_Season_3']",['NULL']
+['NULL'],"['NULL', 'smash', 'Thunder_Smash']",['NULL']
+['NULL'],"['NULL', 'smash', 'Get_On_My_Level', '2019']",['NULL']
+['NULL'],"['NULL', 'smash', 'Smash_Summit', '8']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Afreeca_Starleague_Season_7']",['NULL']
+['NULL'],"['NULL', 'smash', 'Zero']",['NULL']
+['NULL'],"['NULL', 'smash', 'Thunder_Smash']",['NULL']
+['NULL'],"['NULL', 'smash', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'starcraft', '2019_Korea_StarCraft_League_Season_3']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'FOrGG']",['NULL']
+['NULL'],"['NULL', 'smash', 'Zero']",['NULL']
+['NULL'],"['NULL', 'smash', 'SSBMRank']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Afreeca_Starleague_Season_7']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Flash']",['NULL']
+['NULL'],"['NULL', 'starcraft', '2019_Korea_StarCraft_League_Season_3']",['NULL']
+['NULL'],"['NULL', 'smash', 'Smash_Summit', '8']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'FOrGG']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Afreeca_Starleague_Season_7']",['NULL']
+['NULL'],"['NULL', 'smash', 'Thunder_Smash']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Flash']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Units']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'FOrGG']",['NULL']
+['NULL'],"['NULL', 'smash', 'Zero']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_1', 'Code_S']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Flash']",['NULL']
+['NULL'],"['NULL', 'starcraft', '2019_Korea_StarCraft_League_Season_3']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Units']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Afreeca_Starleague_Season_7']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_1', 'Code_S']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2', 'Code_S']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'FOrGG']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Units']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_WCS_Spring']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2', 'Code_S']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_1', 'Code_S']",['NULL']
+['NULL'],"['NULL', 'starcraft2', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Flash']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_WCS_Spring']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2']",['NULL']
+['NULL'],"['NULL', 'starcraft2', 'WardiTV_European_League']",['NULL']
+['NULL'],"['NULL', 'starcraft2', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2', 'Code_S']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Units']",['NULL']
+['NULL'],"['NULL', 'starcraft2', 'WardiTV_European_League']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_WCS_Spring']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_1', 'Code_S']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Ascent']",['NULL']
+['NULL'],"['NULL', 'starcraft2', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'B4nny']",['NULL']
+['NULL'],"['NULL', 'starcraft2', 'WardiTV_European_League']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2', 'Code_S']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'ESEA', 'Season_31', 'Invite', 'North_America']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Ascent']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_WCS_Spring']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Froyotech']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'B4nny']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Habib']",['NULL']
+['NULL'],['NULL'],['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Froyotech']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Habib']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Moon']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'NeXT', '2019_Spring']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'The_Iron_Couch']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Moon']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Gold_League', '2019', 'Summer', 'European_Qualifier']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'NeXT', '2019_Spring']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Survival_Battle']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'The_Iron_Couch']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_Cup', '2019', 'EU', '6']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Gold_League', '2019', 'Summer', 'European_Qualifier']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Survival_Battle']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_World_Championship', '2017']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_Cup', '2019', 'EU', '6']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_World_Championship', '2018']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_World_Championship', '2017']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_World_Championship', '2018']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Pikaboo']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'SquishyMuffinz']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Yumi_cheeseman', 'The_Gauntlet', '9']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Seasonal_Championships', '2019', 'Spring_Finals']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Pikaboo']",['NULL']
+['NULL'],"['NULL', 'smash', 'Get_On_My_Level', '2019']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Seasonal_Championships', '2019', 'Spring_Finals']",['NULL']
+['NULL'],"['NULL', 'smash', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'smash', 'SSBMRank']",['NULL']
+['NULL'],"['NULL', 'quake', 'Cooller']",['NULL']
+['NULL'],"['NULL', 'smash', 'Smash_Summit', '8']",['NULL']
+['NULL'],"['NULL', 'quake', 'CYpheR']",['NULL']
+['NULL'],"['NULL', 'quake', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'smash', 'Thunder_Smash']",['NULL']
+['NULL'],"['NULL', 'quake', 'Rapha']",['NULL']
+['NULL'],"['NULL', 'quake', 'Clawz']",['NULL']
+['NULL'],"['NULL', 'starcraft2', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Ascent']",['NULL']
+['NULL'],"['NULL', 'smash', 'Zero']",['NULL']
+['NULL'],"['NULL', 'quake', 'Toxjq']",['NULL']
+['NULL'],"['NULL', 'starcraft2', 'WardiTV_European_League']",['NULL']
+['NULL'],"['NULL', 'quake', 'Cooller']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'B4nny']",['NULL']
+['NULL'],"['NULL', 'starcraft', '2019_Korea_StarCraft_League_Season_3']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Challenger_League', 'Season_9', 'Europe']",['NULL']
+['NULL'],"['NULL', 'quake', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Ascent']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'ESEA', 'Season_31', 'Invite', 'North_America']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Afreeca_Starleague_Season_7']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Challenger_League', 'Season_9', 'Latin_America']",['NULL']
+['NULL'],"['NULL', 'quake', 'Rapha']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'B4nny']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Froyotech']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'FOrGG']",['NULL']
+['NULL'],"['NULL', 'quake', 'Toxjq']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'ESEA', 'Season_31', 'Invite', 'North_America']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Habib']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Flash']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Europe']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Challenger_League', 'Season_9', 'Europe']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Froyotech']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Finals']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Challenger_League', 'Season_9', 'Latin_America']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Habib']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Units']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Latin_America']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Moon']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_1', 'Code_S']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'List_of_player_camera_settings']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Europe']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'NeXT', '2019_Spring']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Finals']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Moon']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'The_Iron_Couch']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2', 'Code_S']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Rocket_League_Championship_Series', 'Season_7', 'Europe']",['NULL']
+['NULL'],"['NULL', 'rainbowsix', 'Pro_League', 'Season_9', 'Latin_America']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Gold_League', '2019', 'Summer', 'European_Qualifier']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'NeXT', '2019_Spring']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Rocket_League_Championship_Series', 'Season_7', 'North_America']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_WCS_Spring']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'List_of_player_camera_settings']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Survival_Battle']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'SquishyMuffinz']",['NULL']
+['NULL'],"['NULL', 'starcraft2', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_Cup', '2019', 'EU', '6']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Gold_League', '2019', 'Summer', 'European_Qualifier']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Yumi_cheeseman', 'The_Gauntlet', '9']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Rocket_League_Championship_Series', 'Season_7', 'Europe']",['NULL']
+['NULL'],"['NULL', 'starcraft2', 'WardiTV_European_League']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Survival_Battle']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_World_Championship', '2017']",['NULL']
+['NULL'],"['NULL', 'smash', 'Get_On_My_Level', '2019']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Rocket_League_Championship_Series', 'Season_7', 'North_America']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Ascent']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_Cup', '2019', 'EU', '6']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_World_Championship', '2018']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'B4nny']",['NULL']
+['NULL'],"['NULL', 'smash', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'SquishyMuffinz']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_World_Championship', '2017']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'ESEA', 'Season_31', 'Invite', 'North_America']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'smash', 'SSBMRank']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_World_Championship', '2018']",['NULL']
+['NULL'],"['NULL', 'rocketleague', 'Yumi_cheeseman', 'The_Gauntlet', '9']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Froyotech']",['NULL']
+['NULL'],"['NULL', 'smash', 'Smash_Summit', '8']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Pikaboo']",['NULL']
+['NULL'],"['NULL', 'smash', 'Get_On_My_Level', '2019']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Habib']",['NULL']
+['NULL'],"['NULL', 'smash', 'Thunder_Smash']",['NULL']
+['NULL'],"['NULL', 'smash', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Seasonal_Championships', '2019', 'Spring_Finals']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Pikaboo']",['NULL']
+['NULL'],"['NULL', 'smash', 'Zero']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'smash', 'SSBMRank']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Seasonal_Championships', '2019', 'Spring_Finals']",['NULL']
+['NULL'],"['NULL', 'starcraft', '2019_Korea_StarCraft_League_Season_3']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'smash', 'Smash_Summit', '8']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Afreeca_Starleague_Season_7']",['NULL']
+['NULL'],"['NULL', 'smash', 'Thunder_Smash']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Moon']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'FOrGG']",['NULL']
+['NULL'],"['NULL', 'smash', 'Zero']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'NeXT', '2019_Spring']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Flash']",['NULL']
+['NULL'],"['NULL', 'starcraft', '2019_Korea_StarCraft_League_Season_3']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'The_Iron_Couch']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Afreeca_Starleague_Season_7']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Gold_League', '2019', 'Summer', 'European_Qualifier']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Units']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'FOrGG']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Survival_Battle']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_1', 'Code_S']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Flash']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_Cup', '2019', 'EU', '6']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_World_Championship', '2017']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2', 'Code_S']",['NULL']
+['NULL'],"['NULL', 'starcraft', 'Units']",['NULL']
+['NULL'],['NULL'],['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_WCS_Spring']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_1', 'Code_S']",['NULL']
+['NULL'],"['NULL', 'starcraft2', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Pikaboo']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2']",['NULL']
+['NULL'],"['NULL', 'starcraft2', 'WardiTV_European_League']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Seasonal_Championships', '2019', 'Spring_Finals']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_Global_StarCraft_II_League_Season_2', 'Code_S']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Ascent']",['NULL']
+['NULL'],"['NULL', 'starcraft2', '2019_WCS_Spring']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'B4nny']",['NULL']
+['NULL'],"['NULL', 'starcraft2', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'ESEA', 'Season_31', 'Invite', 'North_America']",['NULL']
+['NULL'],"['NULL', 'starcraft2', 'WardiTV_European_League']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Froyotech']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Ascent']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Habib']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'B4nny']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'ESEA', 'Season_31', 'Invite', 'North_America']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Froyotech']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Moon']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Habib']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'NeXT', '2019_Spring']",['NULL']
+['NULL'],"['NULL', 'teamfortress', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'The_Iron_Couch']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Gold_League', '2019', 'Summer', 'European_Qualifier']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Moon']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'NeXT', '2019_Spring']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'The_Iron_Couch']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Gold_League', '2019', 'Summer', 'European_Qualifier']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Survival_Battle']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_Cup', '2019', 'EU', '6']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_World_Championship', '2017']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_World_Championship', '2018']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Pikaboo']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Seasonal_Championships', '2019', 'Spring_Finals']",['NULL']
+['NULL'],"['NULL', 'warcraft', 'Warcraft_Survival_Battle']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_Cup', '2019', 'EU', '6']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_World_Championship', '2017']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Arena_World_Championship', '2018']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Main_Page']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Pikaboo']",['NULL']
+['NULL'],"['NULL', 'worldofwarcraft', 'Seasonal_Championships', '2019', 'Spring_Finals']",['NULL']
+['NULL'],['NULL'],['NULL']
