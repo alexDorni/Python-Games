@@ -13,7 +13,28 @@ class FileParser:
         self.sub_links_split = []
 
         self.__create_dict_files()
-        self.__create_list_of_dict()
+
+    def create_tsv_file(self):
+        try:
+            words_list = self.__split_data()
+            with open("Links.tsv", 'w', newline='') as tsv_file:
+                tsv_writer = csv.writer(tsv_file, delimiter=' ')
+                for words in words_list:
+                    tsv_writer.writerow(words)
+
+        except Exception as e:
+            print(e)
+
+    def create_csv_file(self):
+        try:
+            self.__create_list_of_dict()
+            with open("Links.csv", 'w', newline='') as csv_file:
+                writer = csv.DictWriter(csv_file, self.files_dict.keys())
+                writer.writeheader()
+                writer.writerows(self.sub_links_split)
+
+        except Exception as e:
+            print(e)
 
     def __create_dict_files(self):
         try:
@@ -22,6 +43,7 @@ class FileParser:
                     continue
                 sub_folder = root.split('/')
                 self.files_dict[sub_folder[1]] = root + '/' + files[0]
+            print(self.files_dict)
         except Exception as e:
             print(e)
 
@@ -85,21 +107,26 @@ class FileParser:
                             dict_data[key] = words_list
 
                 self.sub_links_split.append(dict_data)
+
                 if flag:
                     nr_iter += 1
-            print(self.sub_links_split)
         except Exception as e:
             print(e)
 
-    def create_csv_file(self):
-        try:
-            with open('Links.csv', 'w', newline='') as csv_file:
-                writer = csv.DictWriter(csv_file, self.files_dict.keys())
-                writer.writeheader()
-                writer.writerows(self.sub_links_split)
+    def __split_data(self):
+        spliced_data = []
+        for key, val in self.files_dict.items():
+            links_list = list(file_to_set(val))
+            for link in links_list:
+                link = link.replace("\n", '')
+                link = link.replace(".html", '').split(key)[1].split('/')
+                for words in link:
+                    if not words == '':
+                        words = words.split('-')
+                        spliced_data.append(words)
+        return spliced_data
 
-        except Exception as e:
-            print(e)
 
-FileParser().create_csv_file()
+FileParser().create_tsv_file()
+
 
