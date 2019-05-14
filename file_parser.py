@@ -15,15 +15,15 @@ class FileParser:
         self.__create_dict_files()
 
     def create_tsv_file(self):
-        try:
-            words_list = self.__split_data()
-            with open("Links.tsv", 'w', newline='') as tsv_file:
-                tsv_writer = csv.writer(tsv_file, delimiter=' ')
-                for words in words_list:
-                    tsv_writer.writerow(words)
+        # try:
+        words_list = self.__split_data()
+        with open("Links.tsv", 'w', newline='') as tsv_file:
+            tsv_writer = csv.writer(tsv_file, delimiter=' ')
+            for words in words_list:
+                tsv_writer.writerow(words)
 
-        except Exception as e:
-            print(e)
+        # except Exception as e:
+        #     print(e)
 
     def create_csv_file(self):
         try:
@@ -43,7 +43,6 @@ class FileParser:
                     continue
                 sub_folder = root.split('/')
                 self.files_dict[sub_folder[1]] = root + '/' + files[0]
-            print(self.files_dict)
         except Exception as e:
             print(e)
 
@@ -119,14 +118,18 @@ class FileParser:
             links_list = list(file_to_set(val))
             for link in links_list:
                 link = link.replace("\n", '')
-                link = link.replace(".html", '').split(key)[1].split('/')
-                for words in link:
-                    if not words == '':
-                        words = words.split('-')
-                        spliced_data.append(words)
+                link = link.replace(".html", '').split(key)
+                if len(link) > 1:
+                    link = link[1].split('/')
+                    for words in link:
+                        if not words == '':
+                            words = words.split('-')
+                            spliced_data.append(words)
         return spliced_data
 
 
-FileParser().create_tsv_file()
+f = FileParser()
+f.create_csv_file()
+f.create_tsv_file()
 
 
