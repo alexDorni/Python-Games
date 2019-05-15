@@ -75,20 +75,12 @@ class FileParser:
                     words_list = []
                     link_set = file_to_set(self.files_dict[key], nr_iter)
 
-                    if next(iter(link_set)) != "NULL":
+                    link_exists = next(iter(link_set))
+                    if link_exists != "NULL":
                         flag = True
-                    else:
-                        words_list.append("NULL")
-                        dict_data[key] = words_list
-                        continue
 
                     elem_link = list(link_set)[0].replace("\n", '')
-                    if elem_link == '':
-                        words_list.append("NULL")
-                        dict_data[key] = words_list
-                        continue
-
-                    if elem_link.find(key) == -1:
+                    if elem_link == '' or elem_link.find(key) == -1 or link_exists == "NULL":
                         words_list.append("NULL")
                         dict_data[key] = words_list
                         continue

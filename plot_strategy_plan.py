@@ -1,10 +1,10 @@
-import collections
 from itertools import islice
 
 import pandas as pd
 from matplotlib import pyplot as plt
-import seaborn as sns
 import ast
+
+from crawler.general import IMAGES
 
 
 class StrategicalPlan:
@@ -34,6 +34,7 @@ class StrategicalPlan:
                                                          )
                                                   )
 
+    # TODO integrate it in the console app
     def visualize_strategy(self):
 
         for key in self.dict_file_words:
@@ -48,7 +49,7 @@ class StrategicalPlan:
             plt.xlabel("Nr of words")
             plt.title(key)
             plt.gca().invert_yaxis()
-            plt.savefig("bar_{}.png".format(key))
+            plt.savefig(IMAGES + "/{}_bar.png".format(key))
 
 
 plan = StrategicalPlan()
