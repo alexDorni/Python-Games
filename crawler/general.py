@@ -3,14 +3,18 @@ from itertools import islice
 from shutil import rmtree
 
 CRAWLER_OUTPUT = "crawler_output/"
+IMAGES = "images/"
 
 
 def create_project_dir(directory):
     if os.path.exists(directory):
         rmtree(directory)
+    if os.path.exists(IMAGES):
+        rmtree(IMAGES)
 
     print("Creating project {} ...".format(directory))
     os.makedirs(directory)
+    os.makedirs(IMAGES)
 
 
 def create_data_files(project_name, base_url):  # base_url - starting point
