@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e172c4ca-8634-4eb9-b379-a20ab2d7d876" name="Default Changelist" comment="asda">
-      <change beforePath="$PROJECT_DIR$/crawler_exe.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler_exe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/crawl.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler_output/learningsc2.com/crawled.txt" beforeDir="false" afterPath="$PROJECT_DIR$/crawler_output/learningsc2.com/crawled.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler_output/liquipedia.net/crawled.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler_output/liquipedia.net/queue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler_output/osirissc2guide.com/crawled.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler_output/osirissc2guide.com/queue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler_output/wikihow.com/crawled.txt" beforeDir="false" afterPath="$PROJECT_DIR$/crawler_output/wikihow.com/crawled.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler_output/wikihow.com/queue.txt" beforeDir="false" afterPath="$PROJECT_DIR$/crawler_output/wikihow.com/queue.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,16 +18,35 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-675760343">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/crawler/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
+            <state relative-caret-position="-818">
               <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#55#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -36,13 +63,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawler_exe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="459">
               <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file_parser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="63" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="63" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -145,9 +184,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2904" />
-    <option name="width" value="943" />
-    <option name="height" value="1087" />
+    <option name="x" value="145" />
+    <option name="y" value="-10" />
+    <option name="width" value="1785" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -155,7 +195,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,31 +207,15 @@
               <item name="Python-Games" type="462c0819:PsiDirectoryNode" />
               <item name="crawler" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Spider-Web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Games" type="462c0819:PsiDirectoryNode" />
-              <item name="crawler_output" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spider-Web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Games" type="462c0819:PsiDirectoryNode" />
-              <item name="crawler_output" type="462c0819:PsiDirectoryNode" />
-              <item name="liquipedia.net" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spider-Web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Games" type="462c0819:PsiDirectoryNode" />
-              <item name="crawler_output" type="462c0819:PsiDirectoryNode" />
-              <item name="osirissc2guide.com" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IMPORTANT_ML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -214,7 +237,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.file_parser">
+  <component name="RunManager" selected="Python.Unnamed">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="Spider-Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Yandru\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="crawler_exe" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="file_parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Spider-Web" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -321,6 +365,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.file_parser" />
       <item itemvalue="Python.link_parser" />
       <item itemvalue="Python.link_parser (1)" />
@@ -360,10 +405,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="147" y="-8" width="1781" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="-6" y="-6" width="1549" height="877" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2248996" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22391017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -374,7 +418,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49913943" weight="0.32917964" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32917964" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.498366" visible="true" weight="0.37525988" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.498366" visible="true" weight="0.28686327" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50272334" side_tool="true" weight="0.20872274" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49945533" weight="0.32917964" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -400,6 +444,9 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
@@ -438,9 +485,7 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/argparse.py" />
     <entry file="file://$PROJECT_DIR$/how_to_play_starcraft2/crawled.txt" />
     <entry file="file://$PROJECT_DIR$/crawler_output/kotaku.com/crawled.txt" />
-    <entry file="file://$PROJECT_DIR$/crawler_output/liquipedia.net/queue.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler_output/liquipedia.net/queue.txt" />
     <entry file="file://$PROJECT_DIR$/crawler/thread_abs.py" />
     <entry file="file://$PROJECT_DIR$/FILES_CLEANED/osirissc2guide.com/output.txt" />
     <entry file="file://$PROJECT_DIR$/FILES_CLEANED/liquipedia.net/output.txt" />
@@ -448,61 +493,19 @@
     <entry file="file://$PROJECT_DIR$/FILES_CLEANED/osirissc2guide.com/starcraft/output.txt" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/seaborn/utils.py" />
     <entry file="file://$PROJECT_DIR$/FILES_CLEANED/liquipedia.net/starcraft.txt" />
-    <entry file="file://$PROJECT_DIR$/crawler/link_finder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FILES_CLEANED/osirissc2guide.com/starcraft.txt" />
     <entry file="file://$PROJECT_DIR$/FILES_CLEANED/liquipedia.net/fortnite.txt" />
     <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1735553970/builtins.py" />
     <entry file="file://$PROJECT_DIR$/names.csv" />
     <entry file="file://$PROJECT_DIR$/csv_creator.py" />
-    <entry file="file://$PROJECT_DIR$/crawler/spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/encodings/cp1252.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/csv.py" />
     <entry file="file://$PROJECT_DIR$/crawl.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawler_output/osirissc2guide.com/crawled.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler_output/liquipedia.net/crawled.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4658">
-          <caret line="274" selection-start-line="274" selection-end-line="274" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler/crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler_output/osirissc2guide.com/crawled.txt" />
+    <entry file="file://$PROJECT_DIR$/crawler_output/liquipedia.net/crawled.txt" />
     <entry file="file://$PROJECT_DIR$/Links.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
@@ -513,12 +516,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file_parser.py">
+    <entry file="file://$PROJECT_DIR$/crawler/spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="19" column="63" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="63" />
+        <state relative-caret-position="-818">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/link_finder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler_exe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawled.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/general.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -534,15 +570,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawled.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler_exe.py">
+    <entry file="file://$PROJECT_DIR$/crawler/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+        <state relative-caret-position="306">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
