@@ -220,20 +220,8 @@
     <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/12204985/pygame/display.py" />
     <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/12204985/pygame/base.py" />
     <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/12204985/pygame/draw.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pygame/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="677">
-          <caret line="176" column="8" selection-start-line="176" selection-start-column="8" selection-end-line="176" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pygame/__init__.py" />
     <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/12204985/pygame/event.py" />
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py" />
   </component>
 </project>
